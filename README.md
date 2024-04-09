@@ -1,4 +1,4 @@
-<h1> Breast Cancer Detection using ML and DL Algorithms by exploring Dimension Reduction and Data Sampling Techniques</h1>
+<h1> Breast Cancer Detection Using ML and DL Algorithms by Exploring Dimension Reduction and Data Sampling Techniques</h1>
 
 <h4>Introduction</h4>
 
